@@ -1,3 +1,4 @@
+
 package com.vowelAndConsonant;
 
 import java.util.Scanner;
