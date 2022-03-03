@@ -11,7 +11,7 @@ public class TwoDArray {
 
 	public TwoDArray(int row, int col) {
 		number = new int[row][col];
-	}
+	}	
 
 	public static void main(String[] args) {
 
