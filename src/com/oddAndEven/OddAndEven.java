@@ -1,4 +1,4 @@
-package com.oddAndEven;
+package com.oddandeven;
 
 import java.util.Scanner;
 

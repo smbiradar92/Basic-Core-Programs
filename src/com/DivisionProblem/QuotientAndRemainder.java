@@ -1,4 +1,4 @@
-package com.DivisionProblem;
+package com.divisionproblem;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 
-package com.vowelAndConsonant;
+package com.vowelandconsonant;
 
 import java.util.Scanner;
 
